@@ -6,7 +6,7 @@ export function HelpModal(props) {
 	return (
 		<Modal show={props.show} closeHandler={props.closeHandler}>
 			<h1>
-				<div class="web-maker-with-tag">Web Maker</div>
+				<div class="web-maker-with-tag">IOLOII Web Maker</div>
 				<small style="font-size:14px;">{props.version}</small>
 			</h1>
 
@@ -23,7 +23,11 @@ export function HelpModal(props) {
 					</a>
 				</p>
 				<p>
-					<a href="https://webmaker.app/docs" target="_blank" rel="noopener noreferrer">
+					<a
+						href="https://webmaker.app/docs"
+						target="_blank"
+						rel="noopener noreferrer"
+					>
 						Read the documentation
 					</a>
 					.

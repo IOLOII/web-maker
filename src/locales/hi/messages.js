@@ -20,8 +20,8 @@
 		Console: 'Console',
 		Login: '\u0932\u0949\u0917\u093F\u0928',
 		New: '\u0928\u092F\u093E \u092C\u0928\u093E\u090F\u0901',
-		Open: 'Open',
-		Run: 'Run',
+		Open: '\u0916\u094B\u0932\u0947\u0902',
+		Run: '\u091A\u0932\u093E\u090F\u0901',
 		Save: 'Save',
 		Signup: 'Signup'
 	}
